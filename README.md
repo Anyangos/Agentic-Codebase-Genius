@@ -14,7 +14,7 @@ Agentic Codebase Genius is a multi-agent system designed to automatically genera
 1. **Clone the Repository**
 
     ```bash
-    git clone 
+    git clone https://github.com/Anyangos/Agentic-Codebase-Genius.git
     cd Agentic-Codebase-Genius
     ```
 2. **Setup the Jaseci/Python Environment:**
